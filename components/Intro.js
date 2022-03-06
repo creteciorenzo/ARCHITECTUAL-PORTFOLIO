@@ -6,7 +6,8 @@ const Intro = () => {
       style={{
         padding: '35px 0',
         height: '100vh',
-      }}>
+      }}
+      className='text-container'>
       <Text
         h1
         css={{
